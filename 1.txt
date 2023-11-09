@@ -1,2 +1,2 @@
-from mainn
+from main
 from feature
